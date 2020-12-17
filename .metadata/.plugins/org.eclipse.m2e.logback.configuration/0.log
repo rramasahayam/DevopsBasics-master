@@ -1,0 +1,41 @@
+2020-12-16 12:36:30,667 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ C:\git\DevopsBasics-master\server\pom.xml.
+2020-12-16 12:36:31,029 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:webapp:1.0-SNAPSHOT @ C:\git\DevopsBasics-master\webapp\pom.xml.
+2020-12-16 12:36:33,963 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2020-12-16 12:36:33,965 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2020-12-16 12:36:34,166 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webapp/src/main/java
+2020-12-16 12:36:34,166 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webapp/src/test/java
+2020-12-16 12:36:34,857 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 16 sec
+2020-12-16 12:36:38,130 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 12:36:38,130 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\server\src\main\resources
+2020-12-16 12:36:38,134 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 12:36:38,134 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\server\src\test\resources
+2020-12-16 12:36:39,112 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 12:36:39,112 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\webapp\src\main\resources
+2020-12-16 12:36:39,130 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 12:36:39,130 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\webapp\src\test\resources
+2020-12-16 13:58:56,721 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ C:\git\DevopsBasics-master\server\pom.xml.
+2020-12-16 13:58:56,721 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ C:\git\DevopsBasics-master\server\pom.xml.
+2020-12-16 13:58:57,706 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 13:58:57,706 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\server\src\main\resources
+2020-12-16 13:58:57,709 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 13:58:57,710 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\server\src\test\resources
+2020-12-16 13:58:58,839 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ C:\git\DevopsBasics-master\server\pom.xml.
+2020-12-16 13:58:58,944 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:webapp:1.0-SNAPSHOT @ C:\git\DevopsBasics-master\webapp\pom.xml.
+2020-12-16 13:59:02,397 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 13:59:02,397 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\webapp\src\main\resources
+2020-12-16 13:59:02,400 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 13:59:02,400 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\webapp\src\test\resources
+2020-12-16 13:59:04,059 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ C:\git\DevopsBasics-master\server\pom.xml.
+2020-12-16 13:59:04,195 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:webapp:1.0-SNAPSHOT @ C:\git\DevopsBasics-master\webapp\pom.xml.
+2020-12-16 13:59:05,224 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 13:59:05,224 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\server\src\main\resources
+2020-12-16 13:59:05,226 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 13:59:05,226 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\server\src\test\resources
+2020-12-16 13:59:05,258 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 13:59:05,258 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\webapp\src\main\resources
+2020-12-16 13:59:05,260 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 13:59:05,260 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\webapp\src\test\resources
+2020-12-16 22:00:07,854 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 22:00:07,855 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\webapp\src\main\resources
+2020-12-16 22:00:07,857 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2020-12-16 22:00:07,857 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\git\DevopsBasics-master\webapp\src\test\resources
